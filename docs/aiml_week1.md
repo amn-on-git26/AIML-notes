@@ -1,12 +1,15 @@
 **Knowledge**
+
 -There are two types of Knowledge:
 1.Explicit Knowledge
 2.Implicit Knowledge
 
 **Intelligence**
+
 -Intelligence is the abolity to achieve goals in a wide range of situations.
 
 **AI**
+
 ##Stands for Artificial Intelligence
 -Making machines do things that would requires intelligence if a human did them.
 ###Examples
@@ -23,7 +26,7 @@
 
 ##The is called "Expert Systems" or "Rule Based AI"
 
-** The problem with Rules**
+** The problem with Rules  **
 -How would you write rules for tasks that humans do intuitively?
 
 #Recognizing a Face:
