@@ -17,7 +17,7 @@
 ##Stands for Artificial Intelligence
 
 -Making machines do things that would requires intelligence if a human did them.
-
+---
 ###Examples
 
 :1.Recognizing faces.
@@ -27,7 +27,7 @@
 3.Playing chess
 
 4.Driving a car
-
+---
 **#Attempt 1: Write the rules**
 
 "If the email contains 'free money"-> spam"
@@ -53,7 +53,7 @@ How would you define the exact distance between eyes or the curve of a nose for 
 #Decoding idioms:
 
 "It's raining cats and dogs." A rule-based system might loook for falling animal instead of understanding the metaphor.
-
+---
 **Attempt #2: Let machines learn:**
 
 -Instead of writing rules... Show the machine thousnad of examples and let it figure out the patterns.
@@ -82,6 +82,8 @@ This is called Machine Learning(ML)
 
 <img width="1181" height="628" alt="Screenshot 2026-02-19 100456" src="https://github.com/user-attachments/assets/881264c4-29ec-44ae-ac04-2d7e471dea58" />
 
+
+---
 **Early ML: Modest Successes:**
 
 #What Worked?
@@ -99,7 +101,7 @@ This is called Machine Learning(ML)
 -Couldn't understand a paragraph
 
 -Couldn't recognize objects as well as a toddler
-
+---
 **Why Early ML was limited**
 
 #Bottleneck 01:Not Enough data
@@ -119,7 +121,7 @@ This is called Machine Learning(ML)
 
 -Training on millions of examples would take years
 
-
+---
 **AI Winters:When Hope Died(Twice)
 
 #1970s Winter
@@ -135,7 +137,7 @@ and internet vanished.
 
  ###"The field become joke.Saying you worked on AI was career suicide."
 
- 
+ ---
  **WHY AI EXPLODED(AFTER 2012)**
  
  #01.Data
@@ -156,7 +158,7 @@ and internet vanished.
  
  -Researchers finaaly cracked how to train much deeper and more complex neural networks.
 
- 
+ ---
  **Why Language is Hard for Computers**
  
  #"Fast tracking the AI Course" and "Fast -tracking the course of AI."
