@@ -4,9 +4,13 @@
 1.Explicit Knowledge
 2.Implicit Knowledge
 
+---
+
 **Intelligence**
 
 -Intelligence is the abolity to achieve goals in a wide range of situations.
+
+---
 
 **AI**
 
@@ -67,6 +71,8 @@ This is called Machine Learning(ML)
 04.Machine adjusts itself slightly
 
 05.Repeat millions of times
+
+---
 
 #The Analogy:
 
