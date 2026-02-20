@@ -527,4 +527,28 @@ error is as low as possible.
 
 ** The TRAINING LOOP : Putting It All Together **
 
+-----
+<img width="1085" height="482" alt="Screenshot 2026-02-20 113723" src="https://github.com/user-attachments/assets/dea42297-b06b-4e8f-bade-01072d0e8500" />
+
+
+----
+
+** Key Takeaways ** 
+
+#### 01:
+
+Neural networks are layers of simple neurons doing weighted
+sums.
+
+#### 02:
+
+Training is the iterative process of adjusting weights to minimize
+loss.
+
+#### 03: 
+Backpropagation traces error backward to assign "blame" to
+weights.
+
+#### 04:
+Gradient descent is the strategy for stepping toward lower loss.
 
