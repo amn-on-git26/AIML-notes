@@ -151,7 +151,13 @@ Read the overview here
 
 <img width="1114" height="871" alt="Screenshot 2026-02-20 095535" src="https://github.com/user-attachments/assets/fb80123d-17b9-4a13-bf55-57e729bebbc6" />
 
+<img width="1124" height="595" alt="Screenshot 2026-02-20 095541" src="https://github.com/user-attachments/assets/029c4c72-b620-4014-9949-1605f0f10a2d" />
 
+<img width="1125" height="757" alt="Screenshot 2026-02-20 095553" src="https://github.com/user-attachments/assets/718e801f-9886-4802-8de7-76d64e497435" />
+
+<img width="1111" height="783" alt="Screenshot 2026-02-20 095546" src="https://github.com/user-attachments/assets/47ec3359-d292-4870-9820-1f217f2b4d1b" />
+
+---
 Activation functions are one of the most important parts of a neural network. Without them, deep learning would barely work.
-
+---
 
