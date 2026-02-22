@@ -176,7 +176,7 @@ Tokenization as the foundation of transformer processing
 # From Arbitary IDs to Meaning 
 -----
 
-Moving beyond simple integer labels .
+#### Moving beyond simple integer labels .
 -----
 
 <img width="1118" height="380" alt="Screenshot 2026-02-21 113418" src="https://github.com/user-attachments/assets/0ff0925d-844c-49f4-bf9b-a3ea5cb405e3" />
