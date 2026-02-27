@@ -11,6 +11,7 @@ Connecting conceptual foundations to mechanical implementations.
 # Bridging the Knowledge Gap
 ---
 
+
 Filling the gaps in our understanding of Neural Networks
 ----
 
