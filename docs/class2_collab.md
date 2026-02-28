@@ -18,6 +18,7 @@ Things that we need to discuss
 
 XOR (exclusive or) is a simple logical operarion:
 
+
 * If inputs are different-> output 1
 
 * If inputs are the same -> output 0
