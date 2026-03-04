@@ -12,6 +12,7 @@ Connecting conceptual foundations to mechanical implementations.
 ---
 
 
+
 Filling the gaps in our understanding of Neural Networks
 ----
 
