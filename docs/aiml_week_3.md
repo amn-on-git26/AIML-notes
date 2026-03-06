@@ -39,6 +39,7 @@ Filling the gaps in our understanding of Neural Networks
 # The Fundamental Challenge 
 ---
 
+
 Neural networks only understands NUMBERS.
 
 Human language is TEXT.
