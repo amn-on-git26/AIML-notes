@@ -183,6 +183,7 @@ Meaning:
 
 2. No deep intelligence
 
+
 3. No pattern understanding
 ----
 
