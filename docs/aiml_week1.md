@@ -7,7 +7,7 @@
 ---
 
 **# Intelligence**
-
+ 
 -Intelligence is the abolity to achieve goals in a wide range of situations.
 
 ---
