@@ -21,8 +21,9 @@ Filling the gaps in our understanding of Neural Networks
 1. Neural networks process numbers.
 
 2. Models learn by adjusting weights
+3. 
 
-3. Attention focuses on relevant words.
+4. Attention focuses on relevant words.
 
 ----
 
