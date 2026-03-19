@@ -1,5 +1,6 @@
 **# Knowledge**
 
+
 -There are two types of Knowledge:
 1.Explicit Knowledge
 2.Implicit Knowledge
