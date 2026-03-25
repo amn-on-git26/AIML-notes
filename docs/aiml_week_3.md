@@ -394,6 +394,7 @@ For any fixed offset k, the position p+k can be represented as a linear function
 position p. This allows the model to learn to attend by relative position easily.
 
 #### Generalization
+
 Since the waves are continuous, the model can extrapolate and handle longer
 sequences than those it saw during training.
 -----
